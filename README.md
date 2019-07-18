@@ -12,7 +12,7 @@ A 2D Shooter Game created with Game Maker Studio by three developers with ZERO G
 ## General Info
 
 A Greek Spartan is on a mission to save the terrible invasion of dinosaurs on Earth. 
-In order to do that, he needs to kill 21 dinosaurs leaded by a Giant Boss Dragon, in a very short period of time. 
+In order to do that, he needs to kill 21 dinosaurs led by a Giant Boss Dragon, in a very short period of time. 
 
 Is he able to defeat them all? You decide.
 
